@@ -8,4 +8,4 @@
 7.  use two pare of starts before and after a text to bold the text . for example **bold**
 8.  use pear of "|" sign at the top to declare a column and text between two "|" signs. for example | first column | second | third |
     immediate next line use |:--------- | for continuing every column . after add text into "||" pears only . 
-    
+9.  there in no commands for plain texts
