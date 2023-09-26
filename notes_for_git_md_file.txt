@@ -1,0 +1,11 @@
+1.  for viewing a heading you need to use a hash (#) for largest heading  , and more for relatively small heading
+2.  For using bullet point you need to use a dash (-) 
+3.  For viewing commands you need to use pear of single backtick (`text here`) , the text between backticks will view as codes and commands.
+4.  and use triple backticks for a code snippet .
+5.  for a link use a pear of squire bracket at beginning then pear of first brackets . 
+    put the text which will have hyperlink and put the url  into the first brackets.
+6.  for showing an image use a "!" sign before the squire bracket to the structure mentioned before.
+7.  use two pare of starts before and after a text to bold the text . for example **bold**
+8.  use pear of "|" sign at the top to declare a column and text between two "|" signs. for example | first column | second | third |
+    immediate next line use |:--------- | for continuing every column . after add text into "||" pears only . 
+    
