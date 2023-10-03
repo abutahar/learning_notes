@@ -1,0 +1,21 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "notes for development course",
+  "main": "react_tutorial_notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abutahar/learning_notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abutahar/learning_notes/issues"
+  },
+  "homepage": "https://github.com/abutahar/learning_notes#readme",
+  "dependencies": {
+  }
+}

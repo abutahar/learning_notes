@@ -1,3 +1,7 @@
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+above placed the github authorized documentation for syntaxs.
+
 1.  for viewing a heading you need to use a hash (#) for largest heading  , and more for relatively small heading
 2.  For using bullet point you need to use a dash (-) 
 3.  For viewing commands you need to use pear of single backtick (`text here`) , the text between backticks will view as codes and commands.
