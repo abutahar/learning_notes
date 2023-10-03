@@ -1,0 +1,5 @@
+first install prettier in vscode then
+1. go to the default formatter in setting 
+2. select prettier
+3. in every project in .vscode file create a setting.json file
+4. do some basis eslint setup for on save and correction
